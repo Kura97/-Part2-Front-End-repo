@@ -1,6 +1,7 @@
 # JavaScript-Fundamentals-HW
 
 #OUTPUT:
+
 ![Alt Text](https://i.imgur.com/kHYKhC7.png)
 
 
